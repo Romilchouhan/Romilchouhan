@@ -8,6 +8,8 @@
 [<img align="left" alt="github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://github.com/analytics-club-iitm]
 
 ## Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [Linkedin](https://www.linkedin.com/in/romil-chouhan/)
 [Instagram](https://www.instagram.com/romilchouhan/)
 
@@ -27,3 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  ⚡ Fun fact: ...
 -->
+
+
+## Readme Stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Romilchouhan&repo=Romilchouhan)](https://github.com/Romilchouhan/Romilchouhan)
