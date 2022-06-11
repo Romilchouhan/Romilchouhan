@@ -1,7 +1,6 @@
 ### Hi there, I'm Romil chouhan 👋 
  - __Sophomore at Indian Institute of Technology Madras__
  -  __Machine learning enthusiasts!__ 😄
- -  __Club coordinator at [Analytics Club IITM](https://github.com/analytics-club-iitm)__
  
 ## Connect with me:
 <a href="https://github.com/Romilchouhan">
