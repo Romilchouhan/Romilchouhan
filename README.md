@@ -1,6 +1,7 @@
 ### Hi there, I'm Romil chouhan 👋 
- - __Sophomore at Indian Institute of Technology Madras__
+ - __Final year student at Indian Institute of Technology Madras pursuing Electrical Engineering__
  -  __Machine learning enthusiasts!__ 😄
+ -  __Keen interest in Mathematics and Software Engineering__
  
 ## Connect with me:
 <a href="https://github.com/Romilchouhan">
@@ -17,8 +18,6 @@
 <br>
 
 ## 
-
-<br>![Romil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romilchouhan&show_icons=true&theme=radical&count_private=true)<br>
 
 <br>![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romilchouhan&theme=radical)
 
